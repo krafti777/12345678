@@ -1,5 +1,5 @@
 import {useEffect, useState} from 'react';
-import  styles from './Mines.module.css'; // Импортируем стили как модуль
+import  styles from './Mines.css'; // Импортируем стили как модуль
 
 export default function Mines() {
     useEffect(() => {
